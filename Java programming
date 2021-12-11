@@ -1,0 +1,13 @@
+Public class factorial
+{
+    static void main(string [] args) 
+{
+  int num = 10;
+  long factorial = 1;
+  For(int i = 1; i <= num; ++i) 
+  {
+    // factorial = factorial * i;
+    Factorial *= i;
+}
+System out. Print("factorial of ℅d = %d", num, factorial);
+}
